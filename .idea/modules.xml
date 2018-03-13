@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jd-app.iml" filepath="$PROJECT_DIR$/jd-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-mall-rpc/jd-mall-rpc.iml" filepath="$PROJECT_DIR$/jd-mall-rpc/jd-mall-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-mall-service/jd-mall-service.iml" filepath="$PROJECT_DIR$/jd-mall-service/jd-mall-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-mall-web/jd-mall-web.iml" filepath="$PROJECT_DIR$/jd-mall-web/jd-mall-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-order-rpc/jd-order-rpc.iml" filepath="$PROJECT_DIR$/jd-order-rpc/jd-order-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-order-service/jd-order-service.iml" filepath="$PROJECT_DIR$/jd-order-service/jd-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-order-web/jd-order-web.iml" filepath="$PROJECT_DIR$/jd-order-web/jd-order-web.iml" />
+    </modules>
+  </component>
+</project>
